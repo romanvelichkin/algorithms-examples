@@ -1,4 +1,4 @@
-# selection sort -  O(n**2)
+# selection sort - O(n**2)
 # good if you need to do less memory writes
 import random
 

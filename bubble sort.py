@@ -1,4 +1,4 @@
-# bubble sort O(n**2)
+# bubble sort - O(n**2)
 import random
 
 
